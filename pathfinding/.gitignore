@@ -1,0 +1,11 @@
+bin
+*.bmp
+Makefile
+img
+
+CMakeCache.txt
+CMakeFiles
+Debug
+*.dir
+Win32
+*.cmake

@@ -1,0 +1,5 @@
+*.o
+CMakeCache
+*.elf
+*.hex
+__pycache__
